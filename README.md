@@ -1,4 +1,4 @@
-<h1 algin=centre>CPU SCHEDULING ALGOS <h1>
+# CPU SCHEDULING ALGOS 
 
 -[First Come First Serve](/FCFS.cpp)
 
